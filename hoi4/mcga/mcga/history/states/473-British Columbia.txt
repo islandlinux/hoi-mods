@@ -4,7 +4,12 @@ state={
 	name="STATE_473"
 	manpower = 638165
 	resources={
-		oil=1 # was: 2
+		oil=4000
+		steel=4000
+		rubber=4000
+		aluminium=4000
+		chromium=4000
+		tungsten=4000
 	}
 	
 	state_category = town
@@ -12,14 +17,24 @@ state={
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 1
-			dockyard = 1
-			air_base = 3
+			
+			arms_factory = 20
+			industrial_complex = 5
+			
+			infrastructure = 10
+			bunker = 10
+			air_base = 10
+			anti_air_building = 10
+			radar_station = 10
+			
+			dockyard = 30
+			
+			coastal_bunker = 10
+			
 			1408 = {
-				naval_base = 5
+				naval_base = 10
 			}
+			
 		}
 		add_core_of = CAN
 		victory_points = {

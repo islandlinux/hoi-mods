@@ -9,9 +9,22 @@ state={
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 1
+
+			arms_factory = 20
+			industrial_complex = 5
+			
+			infrastructure = 10
+			bunker = 10
+			air_base = 10
+			anti_air_building = 10
+			radar_station = 10
+			
+			dockyard = 30
+			
+			coastal_bunker = 10
+			
 			10548 = {
-				naval_base = 1
+				naval_base = 10
 			}
 		}
 		add_core_of = CAN
