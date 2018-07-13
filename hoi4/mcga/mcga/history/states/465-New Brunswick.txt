@@ -1,0 +1,36 @@
+
+state={
+	id=465
+	name="STATE_465"
+	manpower = 475020
+	
+	state_category = rural
+
+	history={
+		owner = CAN
+		buildings = {
+		
+			arms_factory = 20
+			industrial_complex = 5
+			
+			infrastructure = 10
+			bunker = 10
+			air_base = 10
+			anti_air_building = 10
+			radar_station = 10
+			
+			dockyard = 30
+			
+			coastal_bunker = 10
+			
+			4285 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = CAN
+	}
+
+	provinces={
+		634 1424 4285 4342 4362 4432 7379 12289 
+	}
+}
