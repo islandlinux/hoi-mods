@@ -8,8 +8,8 @@ state={
 		owner = CAN
 		buildings = {
 
-			arms_factory = 20
-			industrial_complex = 5
+			arms_factory = 40
+			industrial_complex = 60
 			
 			infrastructure = 10
 			bunker = 10
